@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./assets/capa.png">
 </p>
 
 <br>
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 nesse projeto fiz uma atividade uma pagina de moveis planejados
 
-- [Visite o projeto online] (https://64d85c51555a76624e59c145--chic-wisp-bfb0f7.netlify.app/)
+- [Visite o projeto online] (https://khnum782.github.io/card_de_venda/)
 
 ## 🔖 Layout
 
